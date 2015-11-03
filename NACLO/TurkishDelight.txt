@@ -1,0 +1,61 @@
+A
+güreşçi wrestler
+B
+ikbalsiz unsuccessful
+C
+gözcü sentry, eye doctor
+D
+isimsiz nameless
+E
+ormancı forester
+F
+sonsuz endless
+G
+içkici drunkard
+H
+takatsiz lacking strength
+I
+barutçu gunpowder maker
+J
+sütsüz without milk
+K
+balıkçı fisherman
+L
+parasız cashless
+M
+mumcu candlemaker
+
+
+People
+----
+güreşçi wrestler
+balıkçı fisherman
+içkici drunkard
+ormancı forester
+barutçu gunpowder maker
+gözcü sentry, eye doctor
+mumcu candlemaker
+
+Less
+----
+ikbalsiz unsuccessful
+isimsiz nameless
+takatsiz lacking strength
+parasız cashless
+sonsuz endless
+sütsüz without milk
+
+Stems
+----
+göz - sight/see
+süt - milk
+
+Exercise F1
+----
+A, I
+
+Exercise F2
+----
+milkman: sütcü
+blind: gözsüz
+
