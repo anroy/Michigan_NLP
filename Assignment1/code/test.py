@@ -26,7 +26,7 @@ if __name__ == '__main__':
                 f.write('\n')
 
         ev = DependencyEvaluator(testdata, parsed)
-        print "LAS: {} \nUAS: {}".format(*ev.eval())
+        print "UAS: {} \nLAS: {}".format(*ev.eval())
 
         # parsing arbitrary sentences (english):
         # sentence = DependencyGraph.from_sentence('Hi, this is a test')
